@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+
+        <title>Hello World</title>
+
+    </head>
+
+    <body>
+
+        background: green;
+
+        <h1>CSIT 121 - Week 4</h1>
+
+        <h3>Spot the Difference Activity</h3>
+
+        <h2>Introduction</h2>
+
+        <p>This is not my first HTML page.</p>
+         <p>I've learned so much already!</p>
+         <p>Like:</p>
+
+       <ul>
+
+           <li>Basic HTML Tags</li>
+
+           <li>CSS structure</li>
+
+          <li>FTP</li>
+
+       </ul>
+    <hr>
+
+    <p>I can't wait to see what I learn next!</p>
+
+    <h3>Description</h3>
+
+  <p>There are 5 mistakes on this HTML page. <strong>Can you fix all 5?</p></strong>
+
+</html>
